@@ -1,0 +1,12 @@
+# ninja log v6
+8	612	7428801665205997	CMakeFiles/FullSailAssignmentFW.dir/Lib/Console/Console.cpp.obj	25af1cfb205f071f
+3	2811	7428801665155858	CMakeFiles/FullSailAssignmentFW.dir/main.cpp.obj	7da5899067f0edfe
+2813	3010	7428801693265990	FullSailAssignmentFW.exe	c3afb59c41b9827d
+27	379	7428834513469703	CMakeFiles/FullSailAssignmentFW.dir/Lib/Console/Console.cpp.obj	25af1cfb205f071f
+22	1862	7428834513429801	CMakeFiles/FullSailAssignmentFW.dir/main.cpp.obj	7da5899067f0edfe
+39	409	7428834926376106	CMakeFiles/FullSailAssignmentFW.dir/Lib/Input/Input.cpp.obj	c5ea8b26d66b634b
+410	507	7428834930080897	FullSailAssignmentFW.exe	61eb5d340b52795a
+17	1763	7428835312812355	CMakeFiles/FullSailAssignmentFW.dir/main.cpp.obj	7da5899067f0edfe
+1764	1847	7428835330273485	FullSailAssignmentFW.exe	61eb5d340b52795a
+25	1903	7428835539591751	CMakeFiles/FullSailAssignmentFW.dir/main.cpp.obj	7da5899067f0edfe
+1903	2019	7428835558364755	FullSailAssignmentFW.exe	61eb5d340b52795a
